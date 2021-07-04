@@ -1,0 +1,14 @@
+{
+  "name": "airplane",
+  "version": "1.0.0",
+  "description": "To run the program use the following command `node index.js -s \"[ [3,4], [4,5], [2,3], [3,4] ] \" -p 30`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.0.1"
+  }
+}
